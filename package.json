@@ -1,0 +1,17 @@
+{
+  "name": "async-crawler",
+  "version": "0.0.1",
+  "description": "fetch content for webSite which render async",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*"
+  },
+  "author": "kino",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
